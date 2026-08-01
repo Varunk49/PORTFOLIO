@@ -11,8 +11,8 @@
 
 body{
     font-family:'Poppins',sans-serif;
-    background:#0f172a;
-    color:#ffffff;
+    background:#435146;
+    color:#e6dfede8;
 }
 
 /* ==========================
@@ -24,7 +24,7 @@ header{
     top:0;
     left:0;
     width:100%;
-    background:#111827;
+    background:#030e279a;
     padding:20px 8%;
     z-index:1000;
     box-shadow:0 2px 10px rgba(0,0,0,0.3);
@@ -213,7 +213,7 @@ section{
 
     padding:100px 8%;
 
-    background:#111827;
+    background:#1C1C1C;
 
 }
 
@@ -471,14 +471,10 @@ grid-template-columns:1fr;
    SKILLS SECTION
 =========================== */
 
-/* ==========================
-      SKILLS SECTION
-========================== */
-
 #skills{
     min-height:100vh;
     padding:100px 8%;
-    background:#0f172a;
+    background:#4A6958;
 }
 
 .section-title{
@@ -568,7 +564,7 @@ grid-template-columns:1fr;
 #contact{
     min-height:100vh;
     padding:100px 8%;
-    background:#111827;
+    background:#1B2922;
 }
 
 .contact-container{
