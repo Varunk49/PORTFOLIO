@@ -11,7 +11,7 @@
 
 body{
     font-family:'Poppins',sans-serif;
-    background:#435146;
+    background:#240046;
     color:#e6dfede8;
 }
 
@@ -65,9 +65,6 @@ header{
 /* ==========================
    Hero Section
 ========================== */
-
-/* Hero Layout */
-
 /* Hero Section */
 
 #home{
@@ -213,7 +210,7 @@ section{
 
     padding:100px 8%;
 
-    background:#1C1C1C;
+    background:#3C096C;
 
 }
 
@@ -474,7 +471,7 @@ grid-template-columns:1fr;
 #skills{
     min-height:100vh;
     padding:100px 8%;
-    background:#4A6958;
+    background:#5A189A;
 }
 
 .section-title{
@@ -564,7 +561,7 @@ grid-template-columns:1fr;
 #contact{
     min-height:100vh;
     padding:100px 8%;
-    background:#1B2922;
+    background:#7B2CBF;
 }
 
 .contact-container{
